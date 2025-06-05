@@ -10,9 +10,9 @@ This contains all source 3D models and textures for The Waiting Room.
 - A CUDA-powered GPU (RTX 3090, RTX 4090, or RTX 5090 is recommended). AMD GPUs are **NOT** supported for baking or rendering in industry standard pipelines due to lack of OpenCL development from AMD.
 
 # Directory structure
-📂3ds Max (contains the 3ds Max project file for the 3D model)
-📂Decals (contains the Photoshop PSD and exported PNGs for various decals)
-📂SPP (contains the Substance Painter Project (SPP) files for texture editing and export)
+📂3ds Max (contains the 3ds Max project file for the 3D model)<br />
+📂Decals (contains the Photoshop PSD and exported PNGs for various decals)<br />
+📂SPP (contains the Substance Painter Project (SPP) files for texture editing and export)<br />
 
 # Important notes
 - The objects are not to scale or placed properly with the Unity scene. Many objects were rescaled and moved in the final Unity scene. Refer to the Unity scene for proper placement.
